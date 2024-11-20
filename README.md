@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** with a passion fo
 
 ## 🌟 About Me
 - 🎓 **Education**: Bachelor’s Degree in Chemistry (Pharmaceutical Activity).
-- 💻 **Skills**: Python, SQL, Excel, Power BI, Tableau, MongoDB and basic machine learning concepts.
+- 💻 **Skills**: Python, SQL, Excel, Power BI, Tableau, MongoDB.
 - 📊 **Interests**: Data visualization, exploratory data analysis, and business intelligence.
 - 🌱 **Currently Learning**: Advanced SQL, data storytelling techniques, and more visualization tools.
 
@@ -25,10 +25,10 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** with a passion fo
 Here are a few of my projects as I grow in my data analytics journey:
 
 1. **[Python Projects](https://github.com//antonavas/Python_Projects)**  
-   Using Python to predict customer churn with logistic regression and visualize key drivers.
+   Using Python to analyze sales trends customer churn with logistic regression and visualize key drivers.
 
 2. **[PowerBI Projects](https://github.com/antonavas/PowerBI_Projects)**  
-   A Power BI dashboard analyzing sales trends and regional performance.
+   A Power BI dashboards analyzing sales trends, healthcare, HR analytics and others .
 
 ---
 
@@ -36,7 +36,6 @@ Here are a few of my projects as I grow in my data analytics journey:
 ## 🤝 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sviatlana-antonava-1bab0932a)
 - 📊 [Tableau](https://public.tableau.com/app/profile/sviatlana.antonava)
-- 📫 Email: 
 - 🌱 I'm open to collaborations, internships, or just connecting to talk about data!
 
 ---
