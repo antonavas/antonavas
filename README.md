@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm an aspiring **Data Analyst** with a passion fo
 Here are a few of my projects as I grow in my data analytics journey:
 
 1. **[Python Projects](https://github.com//antonavas/Python_Projects)**  
-   Using Python to analyze sales trends customer churn with logistic regression and visualize key drivers.
+   Using Python to analyze sales trends, YouTube content and others.
 
 2. **[PowerBI Projects](https://github.com/antonavas/PowerBI_Projects)**  
    A Power BI dashboards analyzing sales trends, healthcare, HR analytics and others .
