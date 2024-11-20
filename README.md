@@ -34,7 +34,7 @@ Here are a few of my projects as I grow in my data analytics journey:
 
 
 ## 🤝 Let's Connect!
-- 🌐 [LinkedIn](www.linkedin.com/in/sviatlana-antonava-1bab0932a)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sviatlana-antonava-1bab0932a)
 - 📊 [Tableau](https://public.tableau.com/app/profile/sviatlana.antonava)
 - 📫 Email: 
 - 🌱 I'm open to collaborations, internships, or just connecting to talk about data!
